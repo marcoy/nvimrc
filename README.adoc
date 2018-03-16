@@ -1,0 +1,4 @@
+= Neovim
+
+== Bootstrap
+Install Vim-Plug first https://github.com/junegunn/vim-plug.
