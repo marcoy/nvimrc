@@ -59,3 +59,8 @@ nnoremap <silent> [denite]f :<C-u>Denite
             \ -auto-resize
             \ -smartcase
             \ file_rec<CR>
+
+nnoremap <silent> [denite]b :<C-u>Denite
+            \ -auto-resize
+            \ -smartcase
+            \ buffer<CR>
